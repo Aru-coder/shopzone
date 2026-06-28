@@ -4,9 +4,9 @@ A modern Single Page Application (SPA) built with **React**, **React Router**, a
 
 ##  Live Demo
 
-**Live URL:** (Add your Vercel deployment link here)
+**Live URL:** https://shopzone1-six.vercel.app/
 
-**GitHub Repository:** (Add your GitHub repository link here)
+**GitHub Repository:** https://github.com/Aru-coder/shopzone
 
 ##  Features
 
